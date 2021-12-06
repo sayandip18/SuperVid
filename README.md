@@ -1,2 +1,2 @@
 # SuperVid
-1-1 videp chat application based on WebRTC
+1-1 video chat application based on WebRTC
